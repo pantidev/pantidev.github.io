@@ -8,7 +8,7 @@
 
 ## willing to try?
 
-[android](https://drive.google.com/open?id=1Qlo27X7-yBBdASxIkFwZdrGcpxpvNAXz)
+[android](https://drive.google.com/open?id=1V7B_VhKRbMQEk0pRVfp_-L3p5E-6mV7x)
 
 bug:
   1. pop up permissions.
