@@ -1,6 +1,6 @@
 # PantiDev
 
-## [web](http://awseb-e-e-awsebloa-19aedqm1ecvzp-1894315445.ap-southeast-1.elb.amazonaws.com/)
+## [web](http://tako.tk)
 
 ### [pantidev-hackjak2017 (Android)](https://pantidev.github.io/hackjak2017_android_pantidev/)
 
