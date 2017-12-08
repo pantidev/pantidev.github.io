@@ -1,6 +1,6 @@
 # PantiDev
 
-## [web](http://tako.tk)
+## [web](http://pantidev.tk)
 
 ### [pantidev-hackjak2017 (Android)](https://pantidev.github.io/hackjak2017_android_pantidev/)
 
