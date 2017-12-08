@@ -10,6 +10,9 @@
 
 [android](https://drive.google.com/open?id=1Qlo27X7-yBBdASxIkFwZdrGcpxpvNAXz)
 
+bug:
+  permission pop up.
+
 
 
 
